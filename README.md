@@ -1,5 +1,7 @@
 # Welcome to We Go Jim! - The Future of Personal Fitness
 
+![Optional Alt Text](Images/WGJ-Logo.webp)
+
 **We Go Jim!** isn't just an app; it's a revolution in personal health and fitness, meticulously designed to transform your fitness journey into a thrilling adventure of self-discovery and achievement. Powered by cutting-edge AI technology, **We Go Jim!** personalizes your fitness experience to a degree previously unimaginable, offering a dual-subscription model that caters precisely to your individual needs, aspirations, and lifestyle.
 
 ## 🚀 Our Vision: Empowering Your Wellness Journey
@@ -46,4 +48,3 @@ Are you ready to embark on this transformative journey with us? **We Go Jim!** -
 
 Dare to dream. Dare to achieve. **We Go Jim!**
 
-![Optional Alt Text](Images/WGJ-Logo.webp)
