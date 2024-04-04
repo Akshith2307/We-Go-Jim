@@ -45,3 +45,5 @@ Are you ready to embark on this transformative journey with us? **We Go Jim!** -
 ---
 
 Dare to dream. Dare to achieve. **We Go Jim!**
+
+![Optional Alt Text](Images/WGJ-Logo.webp)
